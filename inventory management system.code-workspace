@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../inventory management system"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "shipping-company-website-template"
+	}
+}
